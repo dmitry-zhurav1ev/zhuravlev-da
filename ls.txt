@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x  3 Dmitry Dmitry 4.0K Feb 13 16:02 ./
+drwxr-x--- 16 Dmitry Dmitry 4.0K Feb 13 16:00 ../
+-rw-rw-r--  1 Dmitry Dmitry  717 Feb 13 15:58 config.txt
+-rw-rw-r--  1 Dmitry Dmitry  186 Feb 13 15:27 first.txt
+drwxrwxr-x  8 Dmitry Dmitry 4.0K Feb 13 16:02 .git/
+-rw-rw-r--  1 Dmitry Dmitry    0 Feb 13 16:02 ls.txt
+-rw-rw-r--  1 Dmitry Dmitry   14 Feb 13 15:25 README.md
+-rw-rw-r--  1 Dmitry Dmitry  199 Feb 13 15:27 status.txt
