@@ -1,0 +1,14 @@
+file:/home/Dmitry/.gitconfig	user.email=dizetev@gmail.com
+file:/home/Dmitry/.gitconfig	user.name=Dmitry Zhuravlev
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/dmitry-zhurav1ev/zhuravlev-da.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.first.remote=origin
+file:.git/config	branch.first.merge=refs/heads/first
+file:.git/config	user.name=dmitry-zhurav1ev
+file:.git/config	user.email=dizetev@gmail.com
